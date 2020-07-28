@@ -7,10 +7,6 @@ Created on Wed Apr 17 14:24:07 2019
 
 
 """
-ssh zhuqingwen@10.19.167.17
-password:zhuqingwen@123
-ssh zhuqingwen@10.19.166.25
-password:zqw@2017_1030&
 
 cd /data/data3/hive_data
 cd命令：更换目录
